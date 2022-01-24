@@ -1,1 +1,1 @@
-# koapp-service-externalstorageermission
+# koapp-service-externalstoragepermission
